@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Randika Niroshan</h1>
-<h3 align="center">Full Stack Developer with over 4 years of hands-on experience designing, developing and implementing applications and solutions.</h3>
+<h4 align="center">I like to make things happen. I'm a full-stack developer with expertise in building applications for both the web and mobile platforms, and I love solving problems.</h4>
+
+<h4 align="center">I believe that if you're not excited about your work, then why do it? I'm always looking for new ways to challenge myself and expand my skill set, so if you have any ideas, feel free to reach out!</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
